@@ -1,5 +1,6 @@
 {
   "name": "react",
+  "author": "vellaichamy",
   "version": "0.0.0",
   "private": true,
   "dependencies": {

@@ -30,7 +30,7 @@ import Article from "./src/page/Article";
 function App() {
   return (
     <div>
-      <h1>not the father component?</h1>
+      <h1>ReAct News</h1>
       <Router>
         <nav>
           <ul>
